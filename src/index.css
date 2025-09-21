@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+:root {
+    --color-background: #F5F9F8;
+    --color-primary: #215946;
+    --color-secondary: #259E73;
+    --color-accent: #8CADA3;
+    --color-dark: #213931;
+    --color-highlight: #7CFFCB;
+    --color-muted: #E9F2F0;
+
+    --font-sans: 'Merriweather Sans', sans-serif;
+}
+
+body {
+    background-color: var(--color-background);
+}
